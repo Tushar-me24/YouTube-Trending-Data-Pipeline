@@ -63,9 +63,9 @@ Gold Layer
 
 Outputs:
 
-trending_analytics
-channel_analytics
-category_analytics
+trending_analytics , 
+channel_analytics , 
+category_analytics , 
 
 Stored as:
 
